@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="login_qq_login">QQ登录</string>
+    <string name="login_wb_login">微博登录</string>
+    <string name="login_wx_login">微信登录</string>
+    <string name="share_qq">QQ</string>
+    <string name="share_qq_space">QQ空间</string>
+    <string name="share_wb">微博</string>
+    <string name="share_wx">微信</string>
+    <string name="share_wx_friends">朋友圈</string>
+    <string name="umeng_socialize_sharetodouban">分享到豆瓣</string>
+    <string name="umeng_socialize_sharetolinkin">分享到领英</string>
+    <string name="umeng_socialize_sharetorenren">分享到人人网</string>
+    <string name="umeng_socialize_sharetosina">分享到新浪微博</string>
+    <string name="umeng_socialize_sharetotencent">分享到腾讯微博</string>
+    <string name="umeng_socialize_sharetotwitter">分享到twitter</string>
+    <style name="Theme.UMDefault" parent="android:style/Theme.NoTitleBar"/>
+    <style name="down_enter_down_exit_anim" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="@android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+</resources>

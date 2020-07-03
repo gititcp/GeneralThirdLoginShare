@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0b182799cec068af1a72f1751a92a4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e5e9a14da9e3db17fce4827eeb3db1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ef11ba8f202810d3d3ba191637662df0\AndroidManifest.xml:2:1-7:12
+MERGED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\07501a450c195a7d85aa46b9b3feb5c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\649a5d667e92f9662a271babfbf5740d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17611287ec0d82c3a35ac7fb13375f34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a11cfd7b03f164381d161427a7472281\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a89ebd254331ebd06ac47744eb146c1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff8c676937402e5521207d65e969db3b\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\42c68b33883b20087c008f399b355650\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2a1fae15831330c89f052092ee14bff7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6d91dae76c6105579ce57022ea3037b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94de563bd2cc3450fee9cddd3d0536fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab7cd4b8969df6da392f5792d158b45e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cf95f5ff632ac5b43da58b1183fcca4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bc4c4e3c3f99aad628950d94f3c00198\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9fba93dc86d9ec9245dbfb289eaa6390\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fa889cd9c1250f1f2cafa6621b0f25\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5eed772b6a6369a927d487ed9e2bec4f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3ff8f71227bc291f5f55381a9be5a306\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6f2d05bca85c5181bea6c93fbcba1637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73117ff44f321aa7bc251d60896ffa43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bf91f7ac03456d056dd80d9c9e483c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c7a16a9da87d4f5daae0bed03d33cd10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\88ff3c7f606bd00a0093e656ddd2a89d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e456c31a1da89a34e05b66e15fff6d87\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cf9bada2ae3047e9cc0bb436d3838c33\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7f6e8fb800a2e211ca709575b9b74a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0f66f78d4679ef994d7b11fd4bfa19e0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:5:5-56:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0b182799cec068af1a72f1751a92a4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0b182799cec068af1a72f1751a92a4\AndroidManifest.xml:9:5-20
+MERGED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:5-56:19
+MERGED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:5-56:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fa889cd9c1250f1f2cafa6621b0f25\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fa889cd9c1250f1f2cafa6621b0f25\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5eed772b6a6369a927d487ed9e2bec4f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5eed772b6a6369a927d487ed9e2bec4f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fa889cd9c1250f1f2cafa6621b0f25\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:6:9-45
+activity#com.luffy.generalthirdloginshare.wxapi.WXEntryActivity
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:16:9-20:75
+	android:exported
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:19:13-36
+	android:configChanges
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:18:13-74
+	android:theme
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:17:13-50
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:22:9-34:20
+	android:launchMode
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:24:13-44
+	android:noHistory
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:23:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent1106773664
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:26:13-33:29
+action#android.intent.action.VIEW
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:30:27-75
+data
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:32:17-60
+	android:scheme
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:32:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:35:9-38:75
+	android:configChanges
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:37:13-74
+	android:theme
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:38:13-72
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:36:13-69
+activity#com.luffy.generalthirdloginshare.ddshare.DDShareActivity
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:40:9-45:75
+	android:screenOrientation
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:44:13-49
+	android:exported
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:43:13-36
+	android:configChanges
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:45:13-72
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:41:13-52
+activity#com.luffy.generalthirdloginshare.ui.MainActivity
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:48:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0b182799cec068af1a72f1751a92a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0b182799cec068af1a72f1751a92a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e5e9a14da9e3db17fce4827eeb3db1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e5e9a14da9e3db17fce4827eeb3db1a\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ef11ba8f202810d3d3ba191637662df0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ef11ba8f202810d3d3ba191637662df0\AndroidManifest.xml:5:5-44
+MERGED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\07501a450c195a7d85aa46b9b3feb5c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\07501a450c195a7d85aa46b9b3feb5c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\649a5d667e92f9662a271babfbf5740d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\649a5d667e92f9662a271babfbf5740d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17611287ec0d82c3a35ac7fb13375f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17611287ec0d82c3a35ac7fb13375f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a11cfd7b03f164381d161427a7472281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a11cfd7b03f164381d161427a7472281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a89ebd254331ebd06ac47744eb146c1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a89ebd254331ebd06ac47744eb146c1d\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff8c676937402e5521207d65e969db3b\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff8c676937402e5521207d65e969db3b\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\42c68b33883b20087c008f399b355650\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\42c68b33883b20087c008f399b355650\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2a1fae15831330c89f052092ee14bff7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2a1fae15831330c89f052092ee14bff7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6d91dae76c6105579ce57022ea3037b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6d91dae76c6105579ce57022ea3037b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94de563bd2cc3450fee9cddd3d0536fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94de563bd2cc3450fee9cddd3d0536fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab7cd4b8969df6da392f5792d158b45e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab7cd4b8969df6da392f5792d158b45e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cf95f5ff632ac5b43da58b1183fcca4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cf95f5ff632ac5b43da58b1183fcca4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bc4c4e3c3f99aad628950d94f3c00198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bc4c4e3c3f99aad628950d94f3c00198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9fba93dc86d9ec9245dbfb289eaa6390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9fba93dc86d9ec9245dbfb289eaa6390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fa889cd9c1250f1f2cafa6621b0f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fa889cd9c1250f1f2cafa6621b0f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5eed772b6a6369a927d487ed9e2bec4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5eed772b6a6369a927d487ed9e2bec4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3ff8f71227bc291f5f55381a9be5a306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3ff8f71227bc291f5f55381a9be5a306\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6f2d05bca85c5181bea6c93fbcba1637\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6f2d05bca85c5181bea6c93fbcba1637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73117ff44f321aa7bc251d60896ffa43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73117ff44f321aa7bc251d60896ffa43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bf91f7ac03456d056dd80d9c9e483c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bf91f7ac03456d056dd80d9c9e483c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c7a16a9da87d4f5daae0bed03d33cd10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c7a16a9da87d4f5daae0bed03d33cd10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\88ff3c7f606bd00a0093e656ddd2a89d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\88ff3c7f606bd00a0093e656ddd2a89d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e456c31a1da89a34e05b66e15fff6d87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e456c31a1da89a34e05b66e15fff6d87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cf9bada2ae3047e9cc0bb436d3838c33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cf9bada2ae3047e9cc0bb436d3838c33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7f6e8fb800a2e211ca709575b9b74a5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7f6e8fb800a2e211ca709575b9b74a5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0f66f78d4679ef994d7b11fd4bfa19e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0f66f78d4679ef994d7b11fd4bfa19e0\AndroidManifest.xml:20:5-44
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.INTERNET
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:22-78
+activity#com.umeng.socialize.media.WBShareCallBackActivity
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31:9-35:75
+	android:exported
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:34:13-37
+	android:configChanges
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:33:13-63
+	android:theme
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:13-72
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:32:13-77
+activity#com.sina.weibo.sdk.web.WeiboSdkWebActivity
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:36:9-40:58
+	android:windowSoftInputMode
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40:13-55
+	android:exported
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:39:13-37
+	android:configChanges
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38:13-63
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:37:13-70
+activity#com.sina.weibo.sdk.share.WbShareTransActivity
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:41:9-50:20
+	android:launchMode
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:43:13-44
+	android:theme
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:44:13-83
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:42:13-73
+intent-filter#action:name:com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:45:13-49:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:46:17-92
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:46:25-89
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:52:9-55:63
+	android:excludeFromRecents
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:54:13-46
+	android:theme
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from [:thirdloginsharelib] D:\WorkSpace\xiaoxilib\GeneralThirdLoginShare\thirdloginsharelib\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:53:13-72
