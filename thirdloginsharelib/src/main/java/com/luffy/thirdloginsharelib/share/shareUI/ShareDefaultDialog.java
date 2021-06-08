@@ -28,7 +28,8 @@ public class ShareDefaultDialog {
                 SHARE_MEDIA.QZONE,
                 SHARE_MEDIA.WEIXIN,
                 SHARE_MEDIA.WEIXIN_CIRCLE,
-                SHARE_MEDIA.DINGTALK)
+                SHARE_MEDIA.DINGTALK,
+                SHARE_MEDIA.WXWORK)
                 .addButton("复制链接", "复制链接", "umeng_socialize_copyurl", "umeng_socialize_copyurl")
                 .setShareboardclickCallback(mShareBoardlistener)
                 .open();

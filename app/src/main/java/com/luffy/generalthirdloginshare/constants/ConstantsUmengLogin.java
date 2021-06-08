@@ -54,4 +54,14 @@ public class ConstantsUmengLogin {
         /*钉钉-AppId*/
         public static final String APP_ID = "dingoavw6xlnyf5rsyg8u5";
     }
+
+    /**
+     * 企业微信
+     */
+    public class EnterpriseWeChat{
+        public static final String APPID = "ww1ae9ef0b79429ca4";
+        public static final String AGENTID = "1000002";
+        public static final String SCHEMA = "wwauth1ae9ef0b79429ca4000002";
+        public static final String SECRET = "up0Tyn7Ray6tRrYgWmolqPZCATTKIuYtkY6g8RvFLws";
+    }
 }
