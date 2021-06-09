@@ -30,8 +30,8 @@ ext {
             minSdkVersion    : 16,
             targetSdkVersion : 28,
             applicationId    : "com.aoji.smartconsult",
-            versionCode      : 102,
-            versionName      : "1.0.2"
+            versionCode      : 103,
+            versionName      : "1.0.3"
     ]
 
     dependVersion = [
