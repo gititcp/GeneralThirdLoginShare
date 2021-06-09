@@ -16,6 +16,10 @@ allprojects {
         google()
         jcenter()
         maven { url "https://jitpack.io" }
+        // aar包所在位置
+        flatDir {
+            dirs '../thirdloginsharelib/libs'
+        }
     }
 }
 
